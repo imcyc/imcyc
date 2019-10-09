@@ -1,14 +1,19 @@
 import React from 'react';
-import logo from './logo.svg';
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import Home from './components/Home';
+import Introduccion from './components/Introduccion';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
-    </div>
+    <Router basename={process.env.PUBLIC_URL}>
+      <div className="App">
+        <header className="App-header">
+          <Route exact path="/" component={Home} />
+          <Route exact path="/introduccion" component={Introduccion} />
+        </header>
+      </div>
+    </Router>
   );
 }
 
