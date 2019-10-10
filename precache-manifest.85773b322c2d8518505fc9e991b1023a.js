@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f69b88501aed7a412eb10a90a1d1f435",
+    "revision": "2f90b91d76ac1226f5dad0742007f5e7",
     "url": "/imcyc/index.html"
   },
   {
-    "revision": "e57d89388b0948426cd4",
-    "url": "/imcyc/static/css/main.7765e585.chunk.css"
+    "revision": "87d53dc84985b596b558",
+    "url": "/imcyc/static/css/main.9e683ff5.chunk.css"
   },
   {
-    "revision": "88b1c0cc58a11b653c02",
-    "url": "/imcyc/static/js/2.636d1794.chunk.js"
+    "revision": "e13b314467de67edbf20",
+    "url": "/imcyc/static/js/2.049c08bf.chunk.js"
   },
   {
-    "revision": "e57d89388b0948426cd4",
-    "url": "/imcyc/static/js/main.81b8c650.chunk.js"
+    "revision": "87d53dc84985b596b558",
+    "url": "/imcyc/static/js/main.9b1fb5e9.chunk.js"
   },
   {
     "revision": "d52f676310f29d0508ab",
@@ -34,5 +34,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fa37e1dc5a3ebce47eb2849daf686f9e",
     "url": "/imcyc/static/media/prensa.fa37e1dc.svg"
+  },
+  {
+    "revision": "78fca977bbfd5136bb8eb59740fd0139",
+    "url": "/imcyc/static/media/revolvedora.78fca977.svg"
   }
 ]);
