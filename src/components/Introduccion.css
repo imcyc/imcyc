@@ -1,19 +1,16 @@
 .introduccion {
   width: 100%;
 }
-
 h1 {
   font-weight: 100;
   text-transform: uppercase;
 }
-
 .container {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   margin: 0 50px;
 }
-
 .item {
   width: 20%;
   margin-bottom: 2%; /* (100-32*3)/2 */
@@ -22,15 +19,40 @@ h1 {
   justify-content: center;
   flex-direction: column;
   text-align: center;
-  border: 1px solid #fff;
 }
-
 .item p {
   text-align: center;
   font-size: 0.8em;
   margin-top: 0;
 }
-
+.introduccion h1 {
+  font-size: 1.5em;
+  margin-bottom: 0;
+}
+.introduccion h2 {
+  font-size: 0.7em;
+  margin-bottom: 50px;
+  font-weight: 300;
+}
+.item h2 {
+  font-weight: 100;
+  font-size: 0.5em;
+}
 .item .fa {
   margin-top: 20px;
+}
+.svgprensa, .svgplanta, .svglaboratorio {
+  width:2.5em;
+  height: 2.5em;
+  padding:10px;
+  border:1px solid #fff;
+  margin:0 auto;
+  border-radius:50%;
+  box-shadow:0 0 10px #000;
+  transition: all 1s;
+  cursor: pointer;
+  fill: orange;
+}
+.svgprensa:hover {
+  fill: #ffffff;
 }
