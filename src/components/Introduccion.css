@@ -9,7 +9,7 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin: 0 50px;
+  margin: 50px 50px;
 }
 .item {
   width: 20%;
@@ -37,22 +37,29 @@ h1 {
 .item h2 {
   font-weight: 100;
   font-size: 0.5em;
+  margin-bottom: 0;;
 }
 .item .fa {
   margin-top: 20px;
 }
-.svgprensa, .svgplanta, .svglaboratorio {
+.svgprensa, .svgplanta, .svglaboratorio, .svgrevolvedora, .svgredcyc, .svgautoconstruccion, .svgdeacero {
   width:2.5em;
   height: 2.5em;
   padding:10px;
-  border:1px solid #fff;
+  border:2px solid #fff;
   margin:0 auto;
   border-radius:50%;
   box-shadow:0 0 10px #000;
   transition: all 1s;
   cursor: pointer;
-  fill: orange;
+  fill: #dedede;
+  cursor: pointer;
 }
-.svgprensa:hover {
+.svgautoconstruccion {
+  background: #fff;
+}
+.svgprensa:hover, .svgplanta:hover, .svglaboratorio:hover, .svgrevolvedora:hover, .svgredcyc:hover, .svgdeacero:hover {
   fill: #ffffff;
+  background: #1a75a1;
+  border:2px solid #ffffff;
 }
