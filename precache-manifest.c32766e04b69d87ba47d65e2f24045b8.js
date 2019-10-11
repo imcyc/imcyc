@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f90b91d76ac1226f5dad0742007f5e7",
+    "revision": "c9834c1e7bb0f17facf3df22c390b22e",
     "url": "/imcyc/index.html"
   },
   {
-    "revision": "87d53dc84985b596b558",
-    "url": "/imcyc/static/css/main.9e683ff5.chunk.css"
+    "revision": "817ecb632d173bae04c5",
+    "url": "/imcyc/static/css/main.a538510b.chunk.css"
   },
   {
-    "revision": "e13b314467de67edbf20",
-    "url": "/imcyc/static/js/2.049c08bf.chunk.js"
+    "revision": "7ef7f4df0ab7cfd4ace3",
+    "url": "/imcyc/static/js/2.5e765279.chunk.js"
   },
   {
-    "revision": "87d53dc84985b596b558",
-    "url": "/imcyc/static/js/main.9b1fb5e9.chunk.js"
+    "revision": "817ecb632d173bae04c5",
+    "url": "/imcyc/static/js/main.665683c4.chunk.js"
   },
   {
     "revision": "d52f676310f29d0508ab",
@@ -22,6 +22,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "98e76ccdaeb1603c5cf09ced52925ee7",
     "url": "/imcyc/static/media/laboratorio.98e76ccd.svg"
+  },
+  {
+    "revision": "53f18692d96b2099229cd7418711e22a",
+    "url": "/imcyc/static/media/logo-autoconstruccion.53f18692.svg"
+  },
+  {
+    "revision": "78d00c4377bbaf8a6400a1b3146fba37",
+    "url": "/imcyc/static/media/logo-redcyc.78d00c43.svg"
   },
   {
     "revision": "20b464878af03393fc6ab44e9287c941",
