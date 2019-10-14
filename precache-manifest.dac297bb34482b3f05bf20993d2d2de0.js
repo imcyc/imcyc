@@ -1,19 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9834c1e7bb0f17facf3df22c390b22e",
+    "revision": "0566cb75361dcf6af742b177e4e9a538",
     "url": "/imcyc/index.html"
   },
   {
-    "revision": "817ecb632d173bae04c5",
-    "url": "/imcyc/static/css/main.a538510b.chunk.css"
+    "revision": "770865213e5d6ba7059c",
+    "url": "/imcyc/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "7ef7f4df0ab7cfd4ace3",
-    "url": "/imcyc/static/js/2.5e765279.chunk.js"
+    "revision": "d773f1f44a702dbc9bbf",
+    "url": "/imcyc/static/css/main.e891ed5f.chunk.css"
   },
   {
-    "revision": "817ecb632d173bae04c5",
-    "url": "/imcyc/static/js/main.665683c4.chunk.js"
+    "revision": "770865213e5d6ba7059c",
+    "url": "/imcyc/static/js/2.de654c5a.chunk.js"
+  },
+  {
+    "revision": "d773f1f44a702dbc9bbf",
+    "url": "/imcyc/static/js/main.8ae62b3d.chunk.js"
   },
   {
     "revision": "d52f676310f29d0508ab",
@@ -26,6 +30,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "53f18692d96b2099229cd7418711e22a",
     "url": "/imcyc/static/media/logo-autoconstruccion.53f18692.svg"
+  },
+  {
+    "revision": "d40a96b941cd66d3b145504c4bc3ff29",
+    "url": "/imcyc/static/media/logo-deacero.d40a96b9.svg"
+  },
+  {
+    "revision": "a27ed2d4e7e034663d3ddd3e2bf9848d",
+    "url": "/imcyc/static/media/logo-imcyc-blanco.a27ed2d4.svg"
   },
   {
     "revision": "78d00c4377bbaf8a6400a1b3146fba37",
