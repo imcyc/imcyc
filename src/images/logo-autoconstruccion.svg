@@ -1,41 +1,38 @@
-<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 478.98 309.22" class="svgautoconstruccion">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #016380;
-      }
-
-      .cls-2, .cls-3 {
-        fill: #a8a8a8;
-      }
-
-      .cls-3 {
-        font-size: 44.16px;
-        font-family: Raleway;
-      }
-
-      .cls-4 {
-        letter-spacing: -1px;
-      }
-
-      .cls-5 {
-        fill: none;
-        stroke: #a8a8a8;
-        stroke-miterlimit: 10;
-      }
-    </style>
-  </defs>
-  <title>logo-autoconstruccion</title>
-  <g>
-    <polygon class="cls-1" points="204.01 47.61 141.55 47.61 28.41 203.11 0 203.11 0 242.13 62.4 242.13 90.81 203.11 138.69 137.29 206.63 137.04 254.69 203.11 283.09 242.13 345.56 242.13 345.56 203.11 317.15 203.11 204.01 47.61"/>
-    <polygon class="cls-2" points="450.17 203.11 431.79 177.86 431.79 90.03 392.78 90.03 392.78 124.24 367.5 89.51 305.08 89.56 288.41 112.45 319.6 155.32 352.74 155.05 387.72 203.11 387.66 203.11 416.07 242.13 478.53 242.13 478.53 203.11 450.17 203.11"/>
-  </g>
-  <path class="cls-2" d="M178.63,271.49a15.1,15.1,0,0,1,23.73,0l21.25-12.24a39.6,39.6,0,0,0-66.23,0Z" transform="translate(-17.7 -77.73)"/>
-  <path class="cls-2" d="M188.31,295.68a15,15,0,0,1-11.85-20.45L155.21,263a39.3,39.3,0,0,0,33.1,57.1V295.68Z" transform="translate(-17.7 -77.73)"/>
-  <path class="cls-1" d="M225.77,263l-21.23,12.21a15,15,0,0,1-11.87,20.45v24.44a39.45,39.45,0,0,0,37.39-39.32A39,39,0,0,0,225.77,263" transform="translate(-17.7 -77.73)"/>
-  <text class="cls-3" transform="translate(1.61 298.89)"><tspan class="cls-4">A</tspan><tspan x="28.84" y="0">U</tspan><tspan class="cls-4" x="62.45" y="0">T</tspan><tspan x="87.58" y="0">O</tspan><tspan class="cls-1" x="121.45" y="0">C</tspan><tspan class="cls-1" x="151.48" y="0">ONST</tspan><tspan class="cls-1" x="273.38" y="0">R</tspan><tspan class="cls-1" x="302.92" y="0">U</tspan><tspan class="cls-1" x="335.74" y="0">C</tspan><tspan class="cls-1" x="365.77" y="0">CIÓN</tspan></text>
-  <line class="cls-5" x1="393.78" y1="173.21" x2="393.78" y2="47.38"/>
-  <line class="cls-5" x1="430.73" y1="173.08" x2="430.73" y2="47.25"/>
-  <line class="cls-5" x1="398.86" y1="125.82" x2="398.86"/>
-  <line class="cls-5" x1="425.79" y1="125.82" x2="425.79"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 479 309.2" style="enable-background:new 0 0 479 309.2;" xml:space="preserve" class="svgautoconstruccion">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{font-family:'Raleway';}
+	.st2{font-size:44.16px;}
+	.st3{fill:#FFFFFF;stroke:#A8A8A8;stroke-miterlimit:10;}
+</style>
+<title>logo-autoconstruccion</title>
+<g>
+	<polygon class="st0" points="204,47.6 141.6,47.6 28.4,203.1 0,203.1 0,242.1 62.4,242.1 90.8,203.1 138.7,137.3 206.6,137 
+		254.7,203.1 283.1,242.1 345.6,242.1 345.6,203.1 317.1,203.1 	"/>
+	<polygon class="st0" points="450.2,203.1 431.8,177.9 431.8,90 392.8,90 392.8,124.2 367.5,89.5 305.1,89.6 288.4,112.4 
+		319.6,155.3 352.7,155.1 387.7,203.1 387.7,203.1 416.1,242.1 478.5,242.1 478.5,203.1 	"/>
+</g>
+<path class="st0" d="M160.9,193.8c5.2-6.6,14.7-7.7,21.2-2.5c0.9,0.7,1.8,1.6,2.5,2.5l21.2-12.2c-12-18.3-36.5-23.4-54.8-11.4
+	c-4.5,3-8.4,6.9-11.4,11.4L160.9,193.8z"/>
+<path class="st0" d="M170.6,217.9c-8.2-1.1-13.9-8.7-12.8-16.9c0.2-1.2,0.5-2.4,0.9-3.5l-21.2-12.2c-9.9,19.3-2.2,43,17.2,52.9
+	c5,2.5,10.4,4,15.9,4.2V217.9z"/>
+<path class="st0" d="M208.1,185.3l-21.2,12.2c3.1,7.7-0.6,16.4-8.3,19.5c-1.1,0.5-2.3,0.8-3.5,0.9v24.4
+	c20.9-1.1,37.3-18.4,37.4-39.3C212.4,196.9,210.9,190.8,208.1,185.3"/>
+<text transform="matrix(1 0 0 1 1.61 298.89)" class="st0 st1 st2">A</text>
+<text transform="matrix(1 0 0 1 30.45 298.89)" class="st0 st1 st2">U</text>
+<text transform="matrix(1 0 0 1 64.06 298.89)" class="st0 st1 st2">T</text>
+<text transform="matrix(1 0 0 1 89.19 298.89)" class="st0 st1 st2">O</text>
+<text transform="matrix(1 0 0 1 123.06 298.89)" class="st0 st1 st2">C</text>
+<text transform="matrix(1 0 0 1 153.09 298.89)" class="st0 st1 st2">ONST</text>
+<text transform="matrix(1 0 0 1 274.99 298.89)" class="st0 st1 st2">R</text>
+<text transform="matrix(1 0 0 1 304.53 298.89)" class="st0 st1 st2">U</text>
+<text transform="matrix(1 0 0 1 337.35 298.89)" class="st0 st1 st2">C</text>
+<text transform="matrix(1 0 0 1 367.38 298.89)" class="st0 st1 st2">CIÓN</text>
+<line class="st3" x1="393.8" y1="173.2" x2="393.8" y2="47.4"/>
+<line class="st3" x1="430.7" y1="173.1" x2="430.7" y2="47.2"/>
+<line class="st3" x1="398.9" y1="125.8" x2="398.9" y2="0"/>
+<line class="st3" x1="425.8" y1="125.8" x2="425.8" y2="0"/>
 </svg>

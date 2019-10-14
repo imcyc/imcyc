@@ -1,9 +1,23 @@
+.App-header {
+  background: rgb(25,112,143);
+background: linear-gradient(189deg, rgba(25,112,143,1) 0%, rgba(4,23,36,1) 100%);
+}
 .introduccion {
   width: 100%;
 }
 h1 {
   font-weight: 100;
   text-transform: uppercase;
+}
+h2 {
+  padding-top: 20px;
+}
+a {
+  transition: all 1s;
+}
+a:hover {
+  text-decoration: none;
+  color: #dedede;
 }
 .container {
   display: flex;
@@ -16,7 +30,7 @@ h1 {
   margin-bottom: 2%; /* (100-32*3)/2 */
   position: relative;
   display: flex;
-  justify-content: center;
+  justify-content: top;
   flex-direction: column;
   text-align: center;
 }
@@ -42,7 +56,7 @@ h1 {
 .item .fa {
   margin-top: 20px;
 }
-.svgprensa, .svgplanta, .svglaboratorio, .svgrevolvedora, .svgredcyc, .svgautoconstruccion, .svgdeacero {
+.svgprensa, .svgplanta, .svglaboratorio, .svgrevolvedora, .svgredcyc, .svgautoconstruccion, .svgdeacero, .svgbolsa {
   width:2.5em;
   height: 2.5em;
   padding:10px;
@@ -55,11 +69,16 @@ h1 {
   fill: #dedede;
   cursor: pointer;
 }
-.svgautoconstruccion {
-  background: #fff;
-}
-.svgprensa:hover, .svgplanta:hover, .svglaboratorio:hover, .svgrevolvedora:hover, .svgredcyc:hover, .svgdeacero:hover {
+
+.svgprensa:hover, .svgplanta:hover, .svglaboratorio:hover, .svgrevolvedora:hover, .svgredcyc:hover, .svgdeacero:hover, .svgbolsa:hover {
   fill: #ffffff;
   background: #1a75a1;
   border:2px solid #ffffff;
+}
+.svgprensa .cls-1 {
+  fill: #fff;
+}
+h3 {
+  font-weight: 900;
+  font-size: 0.5em;
 }
