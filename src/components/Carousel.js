@@ -11,7 +11,7 @@ const CarouselSlide = () => {
     <div class="d-flex align-items-center justify-content-center min-vh-100">
       <img
         className="d-block w-100"
-        src="/images/bkg.jpg"
+        src="https://raw.githubusercontent.com/imcyc/imcyc/master/public/images/bkg.jpg"
         alt="First slide"
       />
       <Carousel.Caption>
