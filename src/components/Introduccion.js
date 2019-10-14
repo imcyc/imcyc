@@ -1,5 +1,7 @@
 import React from 'react';
 import { Link } from "react-router-dom";
+import Card from 'react-bootstrap/Card';
+import Button from 'react-bootstrap/Button';
 import { ReactComponent as Prensa } from '../images/prensa.svg';
 import { ReactComponent as Planta } from '../images/plantas.svg';
 import { ReactComponent as Laboratorio } from '../images/laboratorio.svg';
@@ -7,13 +9,14 @@ import { ReactComponent as Revolvedora } from '../images/revolvedora.svg';
 import { ReactComponent as Logoredcyc } from '../images/logo-redcyc.svg';
 import { ReactComponent as Logoautoconstruccion } from '../images/logo-autoconstruccion.svg';
 import { ReactComponent as Logodeacero } from '../images/logo-deacero.svg';
-import logo from '../logo.svg';
+import Navbar from './Navbar';
 import './Introduccion.css';
 
 function Introduccion() {
   return (
     <div className="introduccion">
-      <Link to="/introduccion"><img src={logo} className="App-logo" alt="logo" style={{width: '190px'}} /></Link>
+      <Navbar/>
+      
       <Link to="/"><h1>APLICACIONES PARA LA CONSTRUCCIÓN</h1></Link>
       <h2>INSTITUTO MEXICANO DEL CEMENTO Y DEL CONCRETO A.C.</h2>
       <div className="container">

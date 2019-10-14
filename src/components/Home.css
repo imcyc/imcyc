@@ -1,7 +1,5 @@
-.App {
-  background-image: url('https://upload.wikimedia.org/wikipedia/commons/d/d6/1981_BostonCityHall_byLebovich8_HABS_MA1176.jpg');
-  background-position: center center;
-  background-size: cover;
+body {
+  background: #000;
 }
 p.imcyc {
   font-weight: 800;
@@ -9,4 +7,29 @@ p.imcyc {
 p.texto {
   font-size: 0.7em;
   padding: 0 120px;
+}
+.carousel-item img {
+  height: 100vh;
+}
+.carousel-caption {
+  text-align: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.btn-dark {
+  font-weight: 100;
+    padding: 20px 100px;
+    background: transparent;
+    border: none;
+    background: rgba(0,0,0,0.5);
+    border-radius: 0;
+    font-size: 1em;
+}
+img.logo {
+  width: 170px;
+  height: 50px;
+  margin-bottom: 20px;
 }
