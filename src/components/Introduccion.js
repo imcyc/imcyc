@@ -9,6 +9,8 @@ import { ReactComponent as Logoredcyc } from '../images/logo-redcyc.svg';
 import { ReactComponent as Logoautoconstruccion } from '../images/logo-autoconstruccion.svg';
 import { ReactComponent as Logodeacero } from '../images/logo-deacero.svg';
 import { ReactComponent as Bolsa } from '../images/bolsa.svg';
+import { ReactComponent as CursosEnLinea } from '../images/cursosenlinea.svg';
+import { ReactComponent as Modelo } from '../images/modelo.svg';
 
 import './Introduccion.css';
 
@@ -47,8 +49,6 @@ function Introduccion() {
           <h2>CERTIFICACIÓN</h2>
           <h3>LABORATORIOS DE CONCRETO</h3>
         </div>
-      </div>
-      <div className="container">
         <div className="item">
           <a href="http://www.redcyc.com/" target="_blank">
             <Logoredcyc />
@@ -71,11 +71,25 @@ function Introduccion() {
           <h3>CALCULADORA DE ACERO</h3>
         </div>
         <div className="item">
-          <a href="https://www.auto-construccion.com" target="_blank">
+          <a href="https://imcyc.github.io/bolsadetrabajo/" target="_blank">
             <Bolsa />
           </a>
           <h2>PLATAFORMA</h2>
           <h3>BOLSA DE TRABAJO</h3>
+        </div>
+        <div className="item">
+          <a href="http://cementoyconcreto.com/" target="_blank">
+            <CursosEnLinea />
+          </a>
+          <h2>PLATAFORMA</h2>
+          <h3>CURSOS EN LÍNEA</h3>
+        </div>
+        <div className="item">
+          <a href="http://www.imcyc.net/modelo/" target="_blank">
+            <Modelo />
+          </a>
+          <h2>PLATAFORMA</h2>
+          <h3>MODELO ESTADÍSTICO</h3>
         </div>
       </div>
     </div>

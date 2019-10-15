@@ -2,6 +2,10 @@
   background: rgb(25,112,143);
 background: linear-gradient(189deg, rgba(25,112,143,1) 0%, rgba(4,23,36,1) 100%);
 }
+.container {
+  max-width: 100%;
+  margin: 0 !important;
+}
 .introduccion {
   width: 100%;
 }
@@ -56,7 +60,7 @@ a:hover {
 .item .fa {
   margin-top: 20px;
 }
-.svgprensa, .svgplanta, .svglaboratorio, .svgrevolvedora, .svgredcyc, .svgautoconstruccion, .svgdeacero, .svgbolsa {
+.svgprensa, .svgplanta, .svglaboratorio, .svgrevolvedora, .svgredcyc, .svgautoconstruccion, .svgdeacero, .svgbolsa, .svgcursosenlinea, .svgmodelo {
   width:2.5em;
   height: 2.5em;
   padding:10px;
@@ -70,7 +74,7 @@ a:hover {
   cursor: pointer;
 }
 
-.svgprensa:hover, .svgplanta:hover, .svglaboratorio:hover, .svgrevolvedora:hover, .svgredcyc:hover, .svgdeacero:hover, .svgbolsa:hover {
+.svgprensa:hover, .svgplanta:hover, .svglaboratorio:hover, .svgrevolvedora:hover, .svgredcyc:hover, .svgdeacero:hover, .svgbolsa:hover, .svgautoconstruccion:hover, .svgcursosenlinea:hover, .svgmodelo:hover {
   fill: #ffffff;
   background: #1a75a1;
   border:2px solid #ffffff;
