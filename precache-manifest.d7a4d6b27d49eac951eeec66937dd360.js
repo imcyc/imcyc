@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a9a35a6da2172cd36313128ca05de5b",
+    "revision": "8d58491ca2a140b5c3c5333a75baa8d9",
     "url": "/imcyc/index.html"
   },
   {
@@ -8,20 +8,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/imcyc/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "4b0800db9a5d3d52ba4b",
-    "url": "/imcyc/static/css/main.317352d5.chunk.css"
+    "revision": "ebf3dacabcb3dacdd1b8",
+    "url": "/imcyc/static/css/main.0ab6d9d4.chunk.css"
   },
   {
     "revision": "04c5261f15f95c329d5f",
     "url": "/imcyc/static/js/2.d9a303b5.chunk.js"
   },
   {
-    "revision": "4b0800db9a5d3d52ba4b",
-    "url": "/imcyc/static/js/main.4417b801.chunk.js"
+    "revision": "ebf3dacabcb3dacdd1b8",
+    "url": "/imcyc/static/js/main.606456cf.chunk.js"
   },
   {
     "revision": "d52f676310f29d0508ab",
     "url": "/imcyc/static/js/runtime-main.37f6f718.js"
+  },
+  {
+    "revision": "f76f12897b293277dd63081929ae7b9a",
+    "url": "/imcyc/static/media/agregados.f76f1289.svg"
   },
   {
     "revision": "fdc9aa354a75ae209e51f1c4c14f9c89",
