@@ -71,7 +71,7 @@ function Introduccion() {
           <h3>CALCULADORA DE ACERO</h3>
         </div>
         <div className="item">
-          <a href="https://imcyc.github.io/bolsadetrabajo/" target="_blank">
+          <a href="http://18.219.47.222/bolsadetrabajo/" target="_blank">
             <Bolsa />
           </a>
           <h2>PLATAFORMA</h2>
