@@ -11,6 +11,7 @@ import { ReactComponent as Logodeacero } from '../images/logo-deacero.svg';
 import { ReactComponent as Bolsa } from '../images/bolsa.svg';
 import { ReactComponent as CursosEnLinea } from '../images/cursosenlinea.svg';
 import { ReactComponent as Modelo } from '../images/modelo.svg';
+import { ReactComponent as Agregados } from '../images/agregados.svg';
 
 import './Introduccion.css';
 
@@ -90,6 +91,13 @@ function Introduccion() {
           </a>
           <h2>PLATAFORMA</h2>
           <h3>MODELO ESTADÍSTICO</h3>
+        </div>
+        <div className="item">
+          <a href="https://imcyc.github.io/agregados/" target="_blank">
+            <Agregados />
+          </a>
+          <h2>PLATAFORMA</h2>
+          <h3>AGREGADOS</h3>
         </div>
       </div>
     </div>
