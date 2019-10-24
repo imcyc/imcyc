@@ -60,7 +60,7 @@ a:hover {
 .item .fa {
   margin-top: 20px;
 }
-.svgprensa, .svgplanta, .svglaboratorio, .svgrevolvedora, .svgredcyc, .svgautoconstruccion, .svgdeacero, .svgbolsa, .svgcursosenlinea, .svgmodelo, .svgagregados {
+.svgprensa, .svgplanta, .svglaboratorio, .svgrevolvedora, .svgredcyc, .svgautoconstruccion, .svgdeacero, .svgbolsa, .svgcursosenlinea, .svgmodelo, .svgagregados, .svgcyt, .svgmacrofibras {
   width:2.5em;
   height: 2.5em;
   padding:10px;
@@ -74,7 +74,7 @@ a:hover {
   cursor: pointer;
 }
 
-.svgprensa:hover, .svgplanta:hover, .svglaboratorio:hover, .svgrevolvedora:hover, .svgredcyc:hover, .svgdeacero:hover, .svgbolsa:hover, .svgautoconstruccion:hover, .svgcursosenlinea:hover, .svgmodelo:hover, .svgagregados:hover {
+.svgprensa:hover, .svgplanta:hover, .svglaboratorio:hover, .svgrevolvedora:hover, .svgredcyc:hover, .svgdeacero:hover, .svgbolsa:hover, .svgautoconstruccion:hover, .svgcursosenlinea:hover, .svgmodelo:hover, .svgagregados:hover, .svgcyt:hover, .svgmacrofibras:hover {
   fill: #ffffff;
   background: #1a75a1;
   border:2px solid #ffffff;

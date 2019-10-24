@@ -12,6 +12,8 @@ import { ReactComponent as Bolsa } from '../images/bolsa.svg';
 import { ReactComponent as CursosEnLinea } from '../images/cursosenlinea.svg';
 import { ReactComponent as Modelo } from '../images/modelo.svg';
 import { ReactComponent as Agregados } from '../images/agregados.svg';
+import { ReactComponent as CYT } from '../images/logo-cyt.svg';
+import { ReactComponent as Macrofibras } from '../images/macrofibras.svg';
 
 import './Introduccion.css';
 
@@ -98,6 +100,20 @@ function Introduccion() {
           </a>
           <h2>PLATAFORMA</h2>
           <h3>AGREGADOS</h3>
+        </div>
+        <div className="item">
+          <a href="http://www.revistacyt.com.mx/" target="_blank">
+            <CYT />
+          </a>
+          <h2>REVISTA</h2>
+          <h3>CONSTRUCCIÓN Y TECNOLOGÍA EN CONCRETO</h3>
+        </div>
+        <div className="item">
+          <a href="http://imcyc.net/macrofibras/#/" target="_blank">
+            <Macrofibras />
+          </a>
+          <h2>PLATAFORMA</h2>
+          <h3>MACROFIBRAS</h3>
         </div>
       </div>
     </div>
