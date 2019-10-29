@@ -125,7 +125,7 @@ function Introduccion() {
           <h3>WEBINARS</h3>
         </div>
         <div className="item">
-          <a href="https://imcyc.github.io/biblioteca" target="_blank">
+          <a href="http://18.219.47.222/biblioteca/" target="_blank">
             <Biblioteca />
           </a>
           <h2>PLATAFORMA</h2>
