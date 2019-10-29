@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/imcyc/static/css/main.2b3e6cdc.chunk.css",
-    "main.js": "/imcyc/static/js/main.c2c959e2.chunk.js",
-    "main.js.map": "/imcyc/static/js/main.c2c959e2.chunk.js.map",
+    "main.css": "/imcyc/static/css/main.c13d7c18.chunk.css",
+    "main.js": "/imcyc/static/js/main.f8f8c908.chunk.js",
+    "main.js.map": "/imcyc/static/js/main.f8f8c908.chunk.js.map",
     "runtime-main.js": "/imcyc/static/js/runtime-main.37f6f718.js",
     "runtime-main.js.map": "/imcyc/static/js/runtime-main.37f6f718.js.map",
     "static/css/2.0624914a.chunk.css": "/imcyc/static/css/2.0624914a.chunk.css",
     "static/js/2.9ffbed6d.chunk.js": "/imcyc/static/js/2.9ffbed6d.chunk.js",
     "static/js/2.9ffbed6d.chunk.js.map": "/imcyc/static/js/2.9ffbed6d.chunk.js.map",
     "index.html": "/imcyc/index.html",
-    "precache-manifest.93f5baa952d3d66a70cf39f82cfc2c09.js": "/imcyc/precache-manifest.93f5baa952d3d66a70cf39f82cfc2c09.js",
+    "precache-manifest.bc4352672c25c96558a68d13e683ecbc.js": "/imcyc/precache-manifest.bc4352672c25c96558a68d13e683ecbc.js",
     "service-worker.js": "/imcyc/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/imcyc/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.2b3e6cdc.chunk.css.map": "/imcyc/static/css/main.2b3e6cdc.chunk.css.map",
+    "static/css/main.c13d7c18.chunk.css.map": "/imcyc/static/css/main.c13d7c18.chunk.css.map",
     "static/media/agregados.f76f1289.svg": "/imcyc/static/media/agregados.f76f1289.svg",
+    "static/media/biblioteca.d8c4fb4d.svg": "/imcyc/static/media/biblioteca.d8c4fb4d.svg",
     "static/media/bolsa.fdc9aa35.svg": "/imcyc/static/media/bolsa.fdc9aa35.svg",
     "static/media/cursosenlinea.46d801af.svg": "/imcyc/static/media/cursosenlinea.46d801af.svg",
     "static/media/laboratorio.98e76ccd.svg": "/imcyc/static/media/laboratorio.98e76ccd.svg",
@@ -26,13 +27,14 @@
     "static/media/modelo.60ac6373.svg": "/imcyc/static/media/modelo.60ac6373.svg",
     "static/media/plantas.7956bdb3.svg": "/imcyc/static/media/plantas.7956bdb3.svg",
     "static/media/prensa.fa37e1dc.svg": "/imcyc/static/media/prensa.fa37e1dc.svg",
-    "static/media/revolvedora.78fca977.svg": "/imcyc/static/media/revolvedora.78fca977.svg"
+    "static/media/revolvedora.78fca977.svg": "/imcyc/static/media/revolvedora.78fca977.svg",
+    "static/media/webinars.c38fef79.svg": "/imcyc/static/media/webinars.c38fef79.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.37f6f718.js",
     "static/css/2.0624914a.chunk.css",
     "static/js/2.9ffbed6d.chunk.js",
-    "static/css/main.2b3e6cdc.chunk.css",
-    "static/js/main.c2c959e2.chunk.js"
+    "static/css/main.c13d7c18.chunk.css",
+    "static/js/main.f8f8c908.chunk.js"
   ]
 }
