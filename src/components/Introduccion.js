@@ -129,7 +129,7 @@ function Introduccion() {
             <Biblioteca />
           </a>
           <h2>PLATAFORMA</h2>
-          <h3>BIBLIOTECA DIGITAL</h3>
+          <h3>ACERVO DIGITAL</h3>
         </div>
       </div>
     </div>
