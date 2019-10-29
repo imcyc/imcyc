@@ -14,6 +14,8 @@ import { ReactComponent as Modelo } from '../images/modelo.svg';
 import { ReactComponent as Agregados } from '../images/agregados.svg';
 import { ReactComponent as CYT } from '../images/logo-cyt.svg';
 import { ReactComponent as Macrofibras } from '../images/macrofibras.svg';
+import { ReactComponent as Webinars } from '../images/webinars.svg';
+import { ReactComponent as Biblioteca } from '../images/biblioteca.svg';
 
 import './Introduccion.css';
 
@@ -116,11 +118,18 @@ function Introduccion() {
           <h3>MACROFIBRAS</h3>
         </div>
         <div className="item">
-          <a href="http://imcyc.net/macrofibras/#/" target="_blank">
-            <Macrofibras />
+          <a href="http://webinarimcyc.com/" target="_blank">
+            <Webinars />
           </a>
           <h2>PLATAFORMA</h2>
           <h3>WEBINARS</h3>
+        </div>
+        <div className="item">
+          <a href="https://imcyc.github.io/biblioteca" target="_blank">
+            <Biblioteca />
+          </a>
+          <h2>PLATAFORMA</h2>
+          <h3>BIBLIOTECA DIGITAL</h3>
         </div>
       </div>
     </div>

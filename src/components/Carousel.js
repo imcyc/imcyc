@@ -20,7 +20,7 @@ const CarouselSlide = () => {
         <h3>INSTITUTO MEXICANO DEL CEMENTO Y DEL CONCRETO A.C.</h3>
         <p>APLICACIONES PARA LA CONSTRUCCIÓN</p>
         <Link to="/introduccion">
-          <Button variant="dark">PANEL DE CONTROL</Button>
+          <Button variant="dark">APLICACIONES IMCYC</Button>
         </Link>
       </Carousel.Caption>
     </div>
