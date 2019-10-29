@@ -115,6 +115,13 @@ function Introduccion() {
           <h2>PLATAFORMA</h2>
           <h3>MACROFIBRAS</h3>
         </div>
+        <div className="item">
+          <a href="http://imcyc.net/macrofibras/#/" target="_blank">
+            <Macrofibras />
+          </a>
+          <h2>PLATAFORMA</h2>
+          <h3>WEBINARS</h3>
+        </div>
       </div>
     </div>
   );

@@ -8,10 +8,10 @@ const CarouselSlide = () => {
   return (
   <Carousel>
     <Carousel.Item>
-    <div class="d-flex align-items-center justify-content-center min-vh-100">
+    <div class="d-flex align-items-center justify-content-center min-vh-100 min-vw-100">
       <img
         className="d-block w-100"
-        src="https://raw.githubusercontent.com/imcyc/imcyc/master/public/images/bkg.jpg"
+        src="https://raw.githubusercontent.com/imcyc/imcyc/master/public/images/bkg_.jpg"
         alt="First slide"
       />
       <Carousel.Caption>
