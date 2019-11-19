@@ -6,15 +6,17 @@ import './App.css';
 
 function App() {
   return (
-    <HashRouter basename='http://www.imcyc.com/apps'>
-      <Router basename={process.env.PUBLIC_URL}>
-        <div className="App">
-          <header className="App-header">
-            <Route exact path="/" component={Home} />
-            <Route exact path="/introduccion" component={Introduccion} />
-          </header>
-        </div>
-      </Router>
+    <HashRouter basename='/'>
+      <Switch>
+        <Router basename={process.env.PUBLIC_URL + '/'}>
+          <div className="App">
+            <header className="App-header">
+              <Route exact path="/" component={Home} />
+              <Route exact path="/introduccion" component={Introduccion} />
+            </header>
+          </div>
+        </Router>
+      </Switch>
     </HashRouter>
   );
 }
