@@ -62,7 +62,7 @@ function Introduccion() {
           <h3>REDCYC</h3>
         </div>
         <div className="item">
-          <a href="https://www.auto-construccion.com" target="_blank">
+          <a href="https://www.auto-construccion.com/index.php?u=ruribe@imcyc.com&p=ruribe123" target="_blank">
             <Logoautoconstruccion />
           </a>
           <h2>PLATAFORMA</h2>
