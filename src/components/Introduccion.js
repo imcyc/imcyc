@@ -132,6 +132,18 @@ function Introduccion() {
           <h3>ACERVO DIGITAL</h3>
         </div>
       </div>
+      <hr/>
+      <h2>APPS 2.0</h2>
+      <hr/>
+      <div className="container">
+        <div className="item">
+          <a href="http://18.220.192.140:8080/" target="_blank">
+            <Revolvedora />
+          </a>
+          <h2>WEB</h2>
+          <h3>APLICACIÓN IMCYC</h3>
+        </div>
+      </div>
     </div>
   );
 }
