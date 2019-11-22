@@ -16,6 +16,7 @@ import { ReactComponent as CYT } from '../images/logo-cyt.svg';
 import { ReactComponent as Macrofibras } from '../images/macrofibras.svg';
 import { ReactComponent as Webinars } from '../images/webinars.svg';
 import { ReactComponent as Biblioteca } from '../images/biblioteca.svg';
+import { ReactComponent as Imcyc } from '../images/imcyc.svg';
 
 import './Introduccion.css';
 
@@ -27,105 +28,105 @@ function Introduccion() {
       <h2>INSTITUTO MEXICANO DEL CEMENTO Y DEL CONCRETO A.C.</h2>
       <div className="container">
         <div className="item">
-          <a href="http://18.220.192.140:8080/" target="_blank">
+          <a href="http://18.220.192.140:8080/" target="_blank" rel="noopener noreferrer">
             <Revolvedora />
           </a>
           <h2>CERTIFICACIÓN</h2>
           <h3>REVOLVEDORAS DE CONCRETO</h3>
         </div>
         <div className="item">
-          <a href="http://www.redcyc.com/plantasdeconcreto/" target="_blank">
+          <a href="http://www.redcyc.com/plantasdeconcreto/" target="_blank" rel="noopener noreferrer">
             <Planta />
           </a>
           <h2>CERTIFICACIÓN</h2>
           <h3>PLANTAS DE CONCRETO</h3>
         </div>
         <div className="item">
-          <a href="http://18.216.111.243/" target="_blank">
+          <a href="http://18.216.111.243/" target="_blank" rel="noopener noreferrer">
             <Prensa />
           </a>
           <h2>CERTIFICACIÓN</h2>
           <h3>PRENSAS DE CONCRETO</h3>
         </div>
         <div className="item">
-          <a href="http://18.188.251.124/" target="_blank">
+          <a href="http://18.188.251.124/" target="_blank" rel="noopener noreferrer">
             <Laboratorio />
           </a>
           <h2>CERTIFICACIÓN</h2>
           <h3>LABORATORIOS DE CONCRETO</h3>
         </div>
         <div className="item">
-          <a href="http://www.redcyc.com/" target="_blank">
+          <a href="http://www.redcyc.com/" target="_blank" rel="noopener noreferrer">
             <Logoredcyc />
           </a>
           <h2>PLATAFORMA</h2>
           <h3>REDCYC</h3>
         </div>
         <div className="item">
-          <a href="https://www.auto-construccion.com/index.php?u=ruribe@imcyc.com&p=ruribe123" target="_blank">
+          <a href="https://www.auto-construccion.com/index.php?u=ruribe@imcyc.com&p=ruribe123" target="_blank" rel="noopener noreferrer">
             <Logoautoconstruccion />
           </a>
           <h2>PLATAFORMA</h2>
           <h3>AUTOCONSTRUCCIÓN</h3>
         </div>
         <div className="item">
-          <a href="http://imcyc.net/acero/" target="_blank">
+          <a href="http://imcyc.net/acero/" target="_blank" rel="noopener noreferrer">
             <Logodeacero />
           </a>
           <h2>PLATAFORMA</h2>
           <h3>CALCULADORA DE ACERO</h3>
         </div>
         <div className="item">
-          <a href="http://18.219.47.222/bolsadetrabajo/" target="_blank">
+          <a href="http://18.219.47.222/bolsadetrabajo/" target="_blank" rel="noopener noreferrer">
             <Bolsa />
           </a>
           <h2>PLATAFORMA</h2>
           <h3>BOLSA DE TRABAJO</h3>
         </div>
         <div className="item">
-          <a href="http://cementoyconcreto.com/" target="_blank">
+          <a href="http://cementoyconcreto.com/" target="_blank" rel="noopener noreferrer">
             <CursosEnLinea />
           </a>
           <h2>PLATAFORMA</h2>
           <h3>CURSOS EN LÍNEA</h3>
         </div>
         <div className="item">
-          <a href="http://www.imcyc.net/modelo/" target="_blank">
+          <a href="http://www.imcyc.net/modelo/" target="_blank" rel="noopener noreferrer">
             <Modelo />
           </a>
           <h2>PLATAFORMA</h2>
           <h3>MODELO ESTADÍSTICO</h3>
         </div>
         <div className="item">
-          <a href="https://imcyc.github.io/agregados/" target="_blank">
+          <a href="https://imcyc.github.io/agregados/" target="_blank" rel="noopener noreferrer">
             <Agregados />
           </a>
           <h2>PLATAFORMA</h2>
           <h3>AGREGADOS</h3>
         </div>
         <div className="item">
-          <a href="http://www.revistacyt.com.mx/" target="_blank">
+          <a href="http://www.revistacyt.com.mx/" target="_blank" rel="noopener noreferrer">
             <CYT />
           </a>
           <h2>REVISTA</h2>
           <h3>CONSTRUCCIÓN Y TECNOLOGÍA EN CONCRETO</h3>
         </div>
         <div className="item">
-          <a href="http://imcyc.net/macrofibras/#/" target="_blank">
+          <a href="http://imcyc.net/macrofibras/#/" target="_blank" rel="noopener noreferrer">
             <Macrofibras />
           </a>
           <h2>PLATAFORMA</h2>
           <h3>MACROFIBRAS</h3>
         </div>
         <div className="item">
-          <a href="http://webinarimcyc.com/" target="_blank">
+          <a href="http://webinarimcyc.com/" target="_blank" rel="noopener noreferrer">
             <Webinars />
           </a>
           <h2>PLATAFORMA</h2>
           <h3>WEBINARS</h3>
         </div>
         <div className="item">
-          <a href="http://18.219.47.222/biblioteca/" target="_blank">
+          <a href="http://18.219.47.222/biblioteca/" target="_blank" rel="noopener noreferrer">
             <Biblioteca />
           </a>
           <h2>PLATAFORMA</h2>
@@ -133,15 +134,43 @@ function Introduccion() {
         </div>
       </div>
       <hr/>
-      <h2>APPS 2.0</h2>
+      <h2 className="dos">APPS 2.0</h2>
       <hr/>
       <div className="container">
         <div className="item">
-          <a href="http://18.220.192.140:8080/" target="_blank">
-            <Revolvedora />
+          <a href="https://imcyc.github.io/web/" target="_blank" rel="noopener noreferrer">
+            <Imcyc />
           </a>
           <h2>WEB</h2>
-          <h3>APLICACIÓN IMCYC</h3>
+          <h3>APP IMCYC</h3>
+        </div>
+        <div className="item">
+          <a href="https://imcyc.github.io/autoconstruccion/" target="_blank" rel="noopener noreferrer">
+            <Logoautoconstruccion />
+          </a>
+          <h2>PLATAFORMA</h2>
+          <h3>AUTOCONSTRUCCIÓN</h3>
+        </div>
+        <div className="item">
+          <a href="https://imcyc.github.io/deacero/" target="_blank" rel="noopener noreferrer">
+            <Logodeacero />
+          </a>
+          <h2>PLATAFORMA</h2>
+          <h3>CALCULADORA DE ACERO</h3>
+        </div>
+        <div className="item">
+          <a href="https://imcyc.github.io/revistacyt/" target="_blank" rel="noopener noreferrer">
+            <CYT />
+          </a>
+          <h2>REVISTA</h2>
+          <h3>CONSTRUCCIÓN Y TECNOLOGÍA EN CONCRETO</h3>
+        </div>
+        <div className="item">
+          <a href="https://imcyc.github.io/agregados/" target="_blank" rel="noopener noreferrer">
+            <Agregados />
+          </a>
+          <h2>PLATAFORMA</h2>
+          <h3>AGREGADOS</h3>
         </div>
       </div>
     </div>
