@@ -172,6 +172,13 @@ function Introduccion() {
           <h2>PLATAFORMA</h2>
           <h3>AGREGADOS</h3>
         </div>
+        <div className="item">
+          <a href="http://imcyc.com/vivienda/" target="_blank" rel="noopener noreferrer">
+            <Planta />
+          </a>
+          <h2>PLATAFORMA</h2>
+          <h3>VIVIENDA INDUSTRIALIZADA</h3>
+        </div>
       </div>
     </div>
   );
