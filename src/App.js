@@ -6,7 +6,7 @@ import './App.css';
 
 function App() {
   return (
-    <HashRouter basename='/'>
+    <HashRouter basename={process.env.PUBLIC_URL}>
       <Switch>
           <div className="App">
             <header className="App-header">
