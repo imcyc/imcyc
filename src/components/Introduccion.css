@@ -26,8 +26,8 @@ a:hover {
 .container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
   margin: 50px 50px;
+  align-items: flex-start;
 }
 .item {
   width: 20%;
@@ -60,7 +60,7 @@ a:hover {
 .item .fa {
   margin-top: 20px;
 }
-.svgprensa, .svgplanta, .svglaboratorio, .svgrevolvedora, .svgredcyc, .svgautoconstruccion, .svgdeacero, .svgbolsa, .svgcursosenlinea, .svgmodelo, .svgagregados, .svgcyt, .svgmacrofibras, .svgbiblioteca, .svgwebinars, .svgplanta {
+.svgprensa, .svgplanta, .svglaboratorio, .svgrevolvedora, .svgredcyc, .svgautoconstruccion, .svgdeacero, .svgbolsa, .svgcursosenlinea, .svgmodelo, .svgagregados, .svgcyt, .svgmacrofibras, .svgbiblioteca, .svgwebinars, .svgplanta, .svgbombeo {
   width:2.5em;
   height: 2.5em;
   padding:10px;
@@ -74,7 +74,7 @@ a:hover {
   cursor: pointer;
 }
 
-.svgprensa:hover, .svgplanta:hover, .svglaboratorio:hover, .svgrevolvedora:hover, .svgredcyc:hover, .svgdeacero:hover, .svgbolsa:hover, .svgautoconstruccion:hover, .svgcursosenlinea:hover, .svgmodelo:hover, .svgagregados:hover, .svgcyt:hover, .svgmacrofibras:hover, .svgbiblioteca:hover, .svgwebinars:hover, .svgplanta:hover {
+.svgprensa:hover, .svgplanta:hover, .svglaboratorio:hover, .svgrevolvedora:hover, .svgredcyc:hover, .svgdeacero:hover, .svgbolsa:hover, .svgautoconstruccion:hover, .svgcursosenlinea:hover, .svgmodelo:hover, .svgagregados:hover, .svgcyt:hover, .svgmacrofibras:hover, .svgbiblioteca:hover, .svgwebinars:hover, .svgplanta:hover, .svgbombeo:hover {
   fill: #ffffff;
   background: #1a75a1;
   border:2px solid #ffffff;

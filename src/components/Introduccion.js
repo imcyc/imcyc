@@ -16,6 +16,7 @@ import { ReactComponent as CYT } from '../images/logo-cyt.svg';
 import { ReactComponent as Macrofibras } from '../images/macrofibras.svg';
 import { ReactComponent as Webinars } from '../images/webinars.svg';
 import { ReactComponent as Biblioteca } from '../images/biblioteca.svg';
+import { ReactComponent as Bombeo } from '../images/bombeo.svg';
 import { ReactComponent as Imcyc } from '../images/imcyc.svg';
 
 import './Introduccion.css';
@@ -178,6 +179,13 @@ function Introduccion() {
           </a>
           <h2>PLATAFORMA</h2>
           <h3>VIVIENDA INDUSTRIALIZADA</h3>
+        </div>
+        <div className="item">
+          <a href="http://imcyc.com/bombeo/" target="_blank" rel="noopener noreferrer">
+            <Bombeo />
+          </a>
+          <h2>PLATAFORMA</h2>
+          <h3>MANUAL DEL BOMBEADOR DE CONCRETO</h3>
         </div>
       </div>
     </div>
