@@ -124,7 +124,7 @@ function Introduccion() {
             <Webinars />
           </a>
           <h2>PLATAFORMA</h2>
-          <h3>WEBINARS</h3>
+          <h3>WEBINARS EN CONCRETO</h3>
         </div>
         <div className="item">
           <a href="http://18.219.47.222/biblioteca/" target="_blank" rel="noopener noreferrer">
@@ -186,6 +186,13 @@ function Introduccion() {
           </a>
           <h2>PLATAFORMA</h2>
           <h3>MANUAL DEL BOMBEADOR DE CONCRETO</h3>
+        </div>
+        <div className="item">
+          <a href="http://www.webinarimcyc.com/" target="_blank" rel="noopener noreferrer">
+            <Prensa />
+          </a>
+          <h2>PLATAFORMA</h2>
+          <h3>WEBINARS IMCYC</h3>
         </div>
       </div>
     </div>
