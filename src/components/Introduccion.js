@@ -146,7 +146,7 @@ function Introduccion() {
           <h3>APP IMCYC</h3>
         </div>
         <div className="item">
-          <a href="https://imcyc.github.io/autoconstruccion/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.auto-construccion.com/" target="_blank" rel="noopener noreferrer">
             <Logoautoconstruccion />
           </a>
           <h2>PLATAFORMA</h2>
