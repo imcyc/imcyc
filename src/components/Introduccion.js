@@ -195,6 +195,32 @@ function Introduccion() {
           <h3>WEBINARS IMCYC</h3>
         </div>
       </div>
+      <hr/>
+      <h2 className="dos">WEB APPS</h2>
+      <hr/>
+      <div className="container">
+        <div className="item">
+          <a href="http://www.concreton.com.mx" target="_blank" rel="noopener noreferrer">
+            <Imcyc />
+          </a>
+          <h2>CONCRETON</h2>
+          <h3>PROBLEMAS, CAUSAS Y SOLUCIONES</h3>
+        </div>
+        <div className="item">
+          <a href="http://www.libreriaimcyc.com/" target="_blank" rel="noopener noreferrer">
+            <Imcyc />
+          </a>
+          <h2>LIBRERÍA IMCYC</h2>
+          <h3>APP IMCYC</h3>
+        </div>
+        <div className="item">
+          <a href="http://www.construremates.com/" target="_blank" rel="noopener noreferrer">
+            <Imcyc />
+          </a>
+          <h2>CONSTRUREMATES</h2>
+          <h3>APP IMCYC</h3>
+        </div>
+      </div>
     </div>
   );
 }
