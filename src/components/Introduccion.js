@@ -133,6 +133,13 @@ function Introduccion() {
           <h2>PLATAFORMA</h2>
           <h3>ACERVO DIGITAL</h3>
         </div>
+        <div className="item">
+          <a href="http://www.imcyc.net/sese/" target="_blank" rel="noopener noreferrer">
+            <Modelo />
+          </a>
+          <h2>PLATAFORMA</h2>
+          <h3>EVAUACIÓN<br/>SEGURIDAD ESTRUCTURAL</h3>
+        </div>
       </div>
       <hr/>
       <h2 className="dos">APPS 2.0</h2>
