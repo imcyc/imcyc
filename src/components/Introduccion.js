@@ -138,7 +138,7 @@ function Introduccion() {
             <Modelo />
           </a>
           <h2>PLATAFORMA</h2>
-          <h3>EVAUACIÓN<br/>SEGURIDAD ESTRUCTURAL</h3>
+          <h3>EVALUACIÓN<br/>SEGURIDAD ESTRUCTURAL</h3>
         </div>
       </div>
       <hr/>
