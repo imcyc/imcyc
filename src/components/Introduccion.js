@@ -120,7 +120,7 @@ function Introduccion() {
           <h3>MACROFIBRAS</h3>
         </div>
         <div className="item">
-          <a href="http://webinarsenconcreto.com/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.webinarsenconcreto.com/" target="_blank" rel="noopener noreferrer">
             <Webinars />
           </a>
           <h2>PLATAFORMA</h2>
