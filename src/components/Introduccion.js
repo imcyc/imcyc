@@ -228,6 +228,25 @@ function Introduccion() {
           <h3>APP IMCYC</h3>
         </div>
       </div>
+      <hr/>
+      <h2 className="dos">WEB APPS - ESTUDIO</h2>
+      <hr/>
+      <div className="container">
+        <div className="item">
+          <a href="http://www.petrologia.mx" target="_blank" rel="noopener noreferrer">
+            <Planta />
+          </a>
+          <h2>PETROLOGÍA</h2>
+          <h3>UNAM</h3>
+        </div>
+        <div className="item">
+          <a href="https://imcyc.vercel.app/" target="_blank" rel="noopener noreferrer">
+            <Imcyc />
+          </a>
+          <h2>PROPUESTA WEB IMCYC</h2>
+          <h3>IMCYC</h3>
+        </div>
+      </div>
     </div>
   );
 }
