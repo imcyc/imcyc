@@ -36,7 +36,7 @@ function Introduccion() {
           <h3>REVOLVEDORAS DE CONCRETO</h3>
         </div>
         <div className="item">
-          <a href="http://www.redcyc.com/plantasdeconcreto/" target="_blank" rel="noopener noreferrer">
+          <a href="http://www.imcyc.net/plantasdeconcreto/" target="_blank" rel="noopener noreferrer">
             <Planta />
           </a>
           <h2>CERTIFICACIÓN</h2>
@@ -139,6 +139,20 @@ function Introduccion() {
           </a>
           <h2>PLATAFORMA</h2>
           <h3>EVALUACIÓN<br/>SEGURIDAD ESTRUCTURAL</h3>
+        </div>
+        <div className="item">
+          <a href="http://www.imcyc.com/verificacion/evaluacion/" target="_blank" rel="noopener noreferrer">
+            <Bombeo />
+          </a>
+          <h2>PLATAFORMA</h2>
+          <h3>EVALUACIÓN<br/>DE CONCRETO</h3>
+        </div>
+        <div className="item">
+          <a href="http://www.imcyc.com/verificacion/verificacion/" target="_blank" rel="noopener noreferrer">
+            <Biblioteca />
+          </a>
+          <h2>PLATAFORMA</h2>
+          <h3>EVALUACIÓN<br/>ESTRUCTURAL</h3>
         </div>
       </div>
       <hr/>
