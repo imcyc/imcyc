@@ -145,7 +145,7 @@ function Introduccion() {
             <Bombeo />
           </a>
           <h2>PLATAFORMA</h2>
-          <h3>EVALUACIÓN<br/>DE CONCRETO</h3>
+          <h3>EVALUACIÓN<br/>FORENSE</h3>
         </div>
         <div className="item">
           <a href="http://www.imcyc.net/verificacion/verificacion/" target="_blank" rel="noopener noreferrer">
