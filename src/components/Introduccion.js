@@ -29,6 +29,27 @@ function Introduccion() {
       <h2>INSTITUTO MEXICANO DEL CEMENTO Y DEL CONCRETO A.C.</h2>
       <div className="container">
         <div className="item">
+          <a href="http://www.libreriaimcyc.com/" target="_blank" rel="noopener noreferrer">
+            <Imcyc />
+          </a>
+          <h2>CERTIFICACIÓN</h2>
+          <h3>LIBRERÍA IMCYC</h3>
+        </div>
+        <div className="item">
+          <a href="https://webinarimcyc.com/" target="_blank" rel="noopener noreferrer">
+            <Imcyc />
+          </a>
+          <h2>CERTIFICACIÓN</h2>
+          <h3>OCP IMCYC</h3>
+        </div>
+        <div className="item">
+          <a href="https://webinarsenconcreto.com/" target="_blank" rel="noopener noreferrer">
+            <Imcyc />
+          </a>
+          <h2>CERTIFICACIÓN</h2>
+          <h3>WEBINARS EN CONCRETO</h3>
+        </div>
+        <div className="item">
           <a href="http://18.220.192.140:8080/" target="_blank" rel="noopener noreferrer">
             <Revolvedora />
           </a>
