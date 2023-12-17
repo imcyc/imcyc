@@ -8,6 +8,7 @@ background: linear-gradient(189deg, rgba(25,112,143,1) 0%, rgba(4,23,36,1) 100%)
 }
 .introduccion {
   width: 100%;
+  margin-top: 100px;
 }
 h1 {
   font-weight: 100;

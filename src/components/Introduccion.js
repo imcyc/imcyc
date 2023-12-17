@@ -29,6 +29,13 @@ function Introduccion() {
       <h2>INSTITUTO MEXICANO DEL CEMENTO Y DEL CONCRETO A.C.</h2>
       <div className="container">
         <div className="item">
+          <a href="https://acv.imcyc.net/" target="_blank" rel="noopener noreferrer">
+            <Modelo />
+          </a>
+          <h2>ANÁLISIS DE</h2>
+          <h3>CICLO DE VIDA</h3>
+        </div>
+        <div className="item">
           <a href="http://www.libreriaimcyc.com/" target="_blank" rel="noopener noreferrer">
             <Imcyc />
           </a>
